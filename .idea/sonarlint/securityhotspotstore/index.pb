@@ -1,0 +1,13 @@
+
+F
+CodeAnalysis/README.md,a/7/a7bdd3e345cea669a7b6fe133eebdda9407699c9
+G
+Optimizations/README.md,5/d/5d5d141a685a754cf2bb3e2ceee5e45e35f16265
+C
+Problema2/README.md,5/f/5f1f6c90e8ad437ee7793473f22c2ebdf9409266
+C
+Problema1/README.md,d/c/dcba02f1568dccc5e01770003b333f3706900794
+C
+Problema3/README.md,9/1/911d112753fabeaf53a5364bf26f73161291c6eb
+A
+Reporte/README.md,6/3/63a7702ba58ed32104f848ba117700b386193358
